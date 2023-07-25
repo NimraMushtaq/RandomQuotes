@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tanstack/react-query": "^4.32.0",
+    "axios": "^1.4.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "react-scripts": "^5.0.1"
+  }
+}
