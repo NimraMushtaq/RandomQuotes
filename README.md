@@ -9,6 +9,8 @@ I have used my knowledge of useState,Javasript,API calls and React Js to complet
 
 This project is a fun and effective way for you to practice fundamental React Js skills. 
 
+![](https://github.com/NimraMushtaq/RandomQuotes/blob/master/pic.png)
+
 # View Project
 
 [Live Demo](https://github.com/facebook/create-react-app).
