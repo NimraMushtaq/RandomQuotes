@@ -28,8 +28,8 @@ function App() {
 
  const getQuote=()=>{
   setIsLoading(true);
-    fetch("https://api.quotable.io/random").then(res=>res.json()).then(data=>{
-        setQuote(data.content);
+    fetch("https://dummyjson.com/quotes/random").then(res=>res.json()).then(data=>{
+        setQuote(data.quote);
         setAuthor(data.author)
     })
         
